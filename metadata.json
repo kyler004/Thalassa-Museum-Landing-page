@@ -1,0 +1,6 @@
+{
+  "name": "Thalassa — Museum of Mediterranean Form",
+  "description": "A minimalist black-and-white Mediterranean museum landing page and interactive 3D virtual tour powered by React Three Fiber, Three.js, and GSAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
